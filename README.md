@@ -1,5 +1,9 @@
 # Week 4 Starter: Math Agent
 
+## Overview
+
+[Watch the demo](https://youtu.be/gDXmWMxLIrc)
+
 A ReAct agent that solves questions using tool calls.
 
 ## Setup
@@ -25,10 +29,6 @@ uv run agent.py
 uv will install dependencies automatically on first run.
 
 The agent will work through each question in `math_questions.md` and print the ReAct trace (Reason / Act / Result) for each one.
-
-## Demo
-
-[Watch the demo](https://youtu.be/gDXmWMxLIrc)
 
 ## Files
 
